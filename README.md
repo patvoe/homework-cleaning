@@ -1,4 +1,4 @@
-# homework-cleaning
+# Homework: cleaning
  
 In class, we discussed a few different ways to clean data — simple Python techniques, using libraries like Pandas, and applying regular expressions. This notebook is designed to help you practice these skills with a dataset provided in pets.csv.
 
